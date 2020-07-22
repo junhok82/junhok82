@@ -31,6 +31,6 @@ I am heading towards a junior developer.🚶
   - 2018 일산 킨텍스 전시
   
 #### 부동산 거래 정보 관련 Web
-- 기간 : 2020.04 ~ 2020.06
+- 기간 : 2020.01 ~ 2020.06
 - 산출물 : SSAFY 내부 gitlab에 공유
 - 결과 : 1학기 최우수 프로젝트
