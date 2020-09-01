@@ -27,11 +27,11 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Locker-SSAFY&repo=Locker&theme=vision-friendly-dark" />
+  <img align="center" width="45%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Locker-SSAFY&repo=Locker&theme=vision-friendly-dark" />
 </a>    
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=junhok82&repo=ITEM&theme=vision-friendly-dark" />
+  <img align="center" width="45%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=junhok82&repo=ITEM&theme=vision-friendly-dark" />
 </a>  
 </p>
 
