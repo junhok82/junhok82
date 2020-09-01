@@ -26,12 +26,12 @@
 <h2 align="center"> Representative Repositories ⭐️ </h2>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="45%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Locker-SSAFY&repo=Locker&theme=vision-friendly-dark" />
+<a href="https://github.com/Locker-SSAFY/Locker">
+  <img align="center" width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Locker-SSAFY&repo=Locker&theme=onedark" />
 </a>    
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="45%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=junhok82&repo=ITEM&theme=vision-friendly-dark" />
+<a href="https://github.com/junhok82/ITEM">
+  <img align="center" width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=junhok82&repo=ITEM&theme=onedark" />
 </a>  
 </p>
 
