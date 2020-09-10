@@ -5,8 +5,8 @@
 <br />
     
 <p align="center"> 
-  🔭  I’m currently working on my project <a href="https://github.com/Locker-SSAFY/Locker" alt="Locker | SSAFY">Locker</a> <br/>
-  🌱  I’m currently learning Java & JPA & TDD <br/>
+  🔭  I’m currently working on my project <a href="https://github.com/Locker-SSAFY/colorPOOL-developing" alt="colorPOOL | SSAFY">colorPOOL</a> <br/>
+  🌱  I’m currently learning Java & JPA <br/>
   💬  Ask me about anything <a href="https://github.com/junhok82/junhok82/issues" alt="issue | junhok82">here</a>
 </p>
 
