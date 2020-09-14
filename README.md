@@ -29,10 +29,15 @@
 <a href="https://github.com/Locker-SSAFY/Locker">
   <img align="center" width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Locker-SSAFY&repo=Locker&theme=onedark" />
 </a>    
-  
+    
 <a href="https://github.com/junhok82/ITEM">
   <img align="center" width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=junhok82&repo=ITEM&theme=onedark" />
-</a>  
+</a>      
+    
+<a href="https://github.com/Locker-SSAFY/colorPOOL-developing">
+  <img align="center" width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Locker-SSAFY&repo=colorPOOL-developing&theme=onedark" />
+</a>    
+
 </p>
 
 <br/>
