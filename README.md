@@ -5,7 +5,7 @@
 <br />
     
 <p align="center"> 
-  🔭  I’m currently working on my project <a href="https://github.com/Locker-SSAFY/colorPOOL-developing" alt="colorPOOL | SSAFY">colorPOOL</a> <br/>
+  🔭  I’m currently working on my project <a href="https://github.com/Locker-SSAFY/colorPOOL" alt="colorPOOL | SSAFY">colorPOOL</a> <br/>
   🌱  I’m currently learning Java & JPA <br/>
   💬  Ask me about anything <a href="https://github.com/junhok82/junhok82/issues" alt="issue | junhok82">here</a>
 </p>
@@ -34,7 +34,7 @@
   <img align="center" width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=junhok82&repo=ITEM&theme=onedark" />
 </a>      
     
-<a href="https://github.com/Locker-SSAFY/colorPOOL-developing">
+<a href="https://github.com/Locker-SSAFY/colorPOOL">
   <img align="center" width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Locker-SSAFY&repo=colorPOOL-developing&theme=onedark" />
 </a>    
 
