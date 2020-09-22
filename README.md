@@ -27,15 +27,15 @@
 
 <p align="center">
 <a href="https://github.com/Locker-SSAFY/Locker">
-  <img align="center" width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Locker-SSAFY&repo=Locker&theme=vue" />
+  <img align="center" width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Locker-SSAFY&repo=Locker&theme=vue" />
 </a>    
     
 <a href="https://github.com/junhok82/ITEM">
-  <img align="center" width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=junhok82&repo=ITEM&theme=vue" />
+  <img align="center" width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=junhok82&repo=ITEM&theme=vue" />
 </a>      
     
 <a href="https://github.com/Locker-SSAFY/colorPOOL">
-  <img align="center" width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Locker-SSAFY&repo=colorPOOL&theme=vue" />
+  <img align="center" width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Locker-SSAFY&repo=colorPOOL&theme=vue" />
 </a>    
 
 </p>
