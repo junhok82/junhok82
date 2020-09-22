@@ -26,17 +26,19 @@
 <h2 align="center"> Representative Repositories ⭐️ </h2>
 
 <p align="center">
+    
 <a href="https://github.com/Locker-SSAFY/Locker">
-  <img align="center" width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Locker-SSAFY&repo=Locker&theme=buefy" />
+  <img align="center" width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Locker-SSAFY&repo=Locker&theme=ayu-mirage&show_owner=true" />
 </a>    
     
 <a href="https://github.com/junhok82/ITEM">
-  <img align="center" width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=junhok82&repo=ITEM&theme=buefy" />
+  <img align="center" width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=junhok82&repo=ITEM&theme=ayu-mirage&show_owner=true" />
 </a>      
     
 <a href="https://github.com/Locker-SSAFY/colorPOOL">
-  <img align="center" width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Locker-SSAFY&repo=colorPOOL&theme=buefy" />
+  <img align="center" width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Locker-SSAFY&repo=colorPOOL&theme=ayu-mirage&show_owner=true" />
 </a>    
+
 
 </p>
 
