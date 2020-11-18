@@ -5,8 +5,8 @@
 <br />
     
 <p align="center"> 
-  🔭  I’m currently working on NTS internship
-  🌱  I’m currently learning Java & Spring lagacy & javascript <br/>
+  🔭  I’m currently working on NTS internship.  <br>
+  🌱  I’m currently learning Java & Spring lagacy & javascript. <br>
   💬  Ask me about anything <a href="https://github.com/junhok82/junhok82/issues" alt="issue | junhok82">here</a>
 </p>
 
